@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328018111304",
+    "project_id": "food-app-baca5",
+    "storage_bucket": "food-app-baca5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328018111304:android:4e02c3d0c13da8c7a0e17d",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328018111304-p02surl7eh1u9r8ds2qgah1vlm9bn64o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA6RFXmDncOr0KR1zLUVUVT3yah7DHXQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328018111304-p02surl7eh1u9r8ds2qgah1vlm9bn64o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
